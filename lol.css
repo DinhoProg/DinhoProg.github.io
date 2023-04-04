@@ -51,6 +51,7 @@ table {
 	opacity: 0.6;
 	text-decoration: none;
 	padding: 20px;
+	font-size: 20px;
  }
  
  .navbar-wrap{
@@ -60,7 +61,7 @@ table {
  
  .navbar-brand{
 	 font-weight: 700;
-	 fomt-size: 26px;
+	 font-size: 26px;
 	 text-decoration: none;
 	 color: #000;
 	 padding-left: 20px;
