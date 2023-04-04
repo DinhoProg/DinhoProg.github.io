@@ -90,3 +90,9 @@ table {
  div#logo{
 	 text-align: center;
  }
+ 
+body{
+	margin: 0%;
+	
+	background: linear-gradient(0deg, #002500, #ffffff);
+}
